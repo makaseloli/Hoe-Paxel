@@ -12,4 +12,5 @@ Press `H` to switch the main-hand right-click mode between shovel and hoe.
 The offhand always uses the opposite mode, and the active shovel or hoe is rotated in the item sprite.
 
 Press `J` to switch the weapon mode between sword and spear.  
+Switch to sword mode when breaking blocks.
 Mode changes update immediately and show a toast notification.
