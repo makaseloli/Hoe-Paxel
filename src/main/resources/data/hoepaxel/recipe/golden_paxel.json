@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:golden_sword",
+    "minecraft:golden_spear",
     "minecraft:golden_axe",
     "minecraft:golden_pickaxe",
     "minecraft:golden_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:golden_paxel"
   }
 }
-

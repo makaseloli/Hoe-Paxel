@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "has_netherite_tools": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["minecraft:netherite_sword"] },
+          { "items": ["minecraft:netherite_spear"] },
+          { "items": ["minecraft:netherite_axe"] },
+          { "items": ["minecraft:netherite_pickaxe"] },
+          { "items": ["minecraft:netherite_shovel"] },
+          { "items": ["minecraft:netherite_hoe"] }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": ["hoepaxel:netherite_paxel"]
+  }
+}

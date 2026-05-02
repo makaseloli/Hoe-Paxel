@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:copper_sword",
+    "minecraft:copper_spear",
     "minecraft:copper_axe",
     "minecraft:copper_pickaxe",
     "minecraft:copper_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:copper_paxel"
   }
 }
-

@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "has_iron_tools": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["minecraft:iron_sword"] },
+          { "items": ["minecraft:iron_spear"] },
+          { "items": ["minecraft:iron_axe"] },
+          { "items": ["minecraft:iron_pickaxe"] },
+          { "items": ["minecraft:iron_shovel"] },
+          { "items": ["minecraft:iron_hoe"] }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": ["hoepaxel:iron_paxel"]
+  }
+}

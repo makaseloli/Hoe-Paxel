@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:diamond_sword",
+    "minecraft:diamond_spear",
     "minecraft:diamond_axe",
     "minecraft:diamond_pickaxe",
     "minecraft:diamond_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:diamond_paxel"
   }
 }
-

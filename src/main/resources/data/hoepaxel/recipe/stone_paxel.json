@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:stone_sword",
+    "minecraft:stone_spear",
     "minecraft:stone_axe",
     "minecraft:stone_pickaxe",
     "minecraft:stone_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:stone_paxel"
   }
 }
-

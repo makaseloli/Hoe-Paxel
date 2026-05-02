@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:netherite_sword",
+    "minecraft:netherite_spear",
     "minecraft:netherite_axe",
     "minecraft:netherite_pickaxe",
     "minecraft:netherite_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:netherite_paxel"
   }
 }
-

@@ -2,6 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:iron_sword",
+    "minecraft:iron_spear",
     "minecraft:iron_axe",
     "minecraft:iron_pickaxe",
     "minecraft:iron_shovel",
@@ -12,4 +13,3 @@
     "id": "hoepaxel:iron_paxel"
   }
 }
-

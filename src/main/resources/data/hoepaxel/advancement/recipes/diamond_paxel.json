@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "has_diamond_tools": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["minecraft:diamond_sword"] },
+          { "items": ["minecraft:diamond_spear"] },
+          { "items": ["minecraft:diamond_axe"] },
+          { "items": ["minecraft:diamond_pickaxe"] },
+          { "items": ["minecraft:diamond_shovel"] },
+          { "items": ["minecraft:diamond_hoe"] }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": ["hoepaxel:diamond_paxel"]
+  }
+}
