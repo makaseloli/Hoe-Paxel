@@ -1,0 +1,23 @@
+{
+  "hand.hoepaxel.main_hand": "利き手",
+  "hand.hoepaxel.off_hand": "オフハンド",
+  "item.hoepaxel.copper_paxel": "銅のパクセル",
+  "item.hoepaxel.diamond_paxel": "ダイヤモンドのパクセル",
+  "item.hoepaxel.golden_paxel": "金のパクセル",
+  "item.hoepaxel.iron_paxel": "鉄のパクセル",
+  "item.hoepaxel.netherite_paxel": "ネザライトのパクセル",
+  "item.hoepaxel.stone_paxel": "石のパクセル",
+  "item.hoepaxel.wooden_paxel": "木のパクセル",
+  "key.category.hoepaxel.general": "Hoe Paxel",
+  "key.hoepaxel.toggle_main_hand_mode": "パクセルの利き手モード切替",
+  "key.hoepaxel.toggle_main_hand_weapon_mode": "パクセルの武器モード切替",
+  "message.hoepaxel.active_mode": "%s: %s モード",
+  "mode.hoepaxel.hoe": "鍬",
+  "mode.hoepaxel.shovel": "シャベル",
+  "toast.hoepaxel.mode_body": "利き手のデフォルトが %s に切り替わりました。",
+  "toast.hoepaxel.mode_title": "パクセルモードを更新しました",
+  "toast.hoepaxel.weapon_mode_body": "武器モードが %s に切り替わりました。",
+  "toast.hoepaxel.weapon_mode_title": "パクセル武器モードを更新しました",
+  "weapon_mode.hoepaxel.spear": "槍",
+  "weapon_mode.hoepaxel.sword": "剣"
+}

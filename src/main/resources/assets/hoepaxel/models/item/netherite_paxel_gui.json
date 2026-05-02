@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe",
+    "layer1": "minecraft:item/netherite_axe",
+    "layer2": "minecraft:item/netherite_shovel",
+    "layer3": "minecraft:item/netherite_hoe",
+    "layer4": "minecraft:item/netherite_sword"
+  }
+}

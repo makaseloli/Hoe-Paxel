@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/copper_pickaxe",
+    "layer1": "minecraft:item/copper_axe",
+    "layer2": "minecraft:item/copper_shovel",
+    "layer3": "minecraft:item/copper_hoe",
+    "layer4": "minecraft:item/copper_sword"
+  }
+}
+

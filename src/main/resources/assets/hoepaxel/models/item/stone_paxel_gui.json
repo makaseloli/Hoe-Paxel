@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe",
+    "layer1": "minecraft:item/stone_axe",
+    "layer2": "minecraft:item/stone_shovel",
+    "layer3": "minecraft:item/stone_hoe",
+    "layer4": "minecraft:item/stone_sword"
+  }
+}
+

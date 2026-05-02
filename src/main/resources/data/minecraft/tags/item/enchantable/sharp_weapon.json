@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "hoepaxel:wooden_paxel",
+    "hoepaxel:stone_paxel",
+    "hoepaxel:copper_paxel",
+    "hoepaxel:iron_paxel",
+    "hoepaxel:golden_paxel",
+    "hoepaxel:diamond_paxel",
+    "hoepaxel:netherite_paxel"
+  ]
+}
